@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../editable-stuff/mathisthomas.png"),
   imageSize: 375,
   message:
-    "My name is Thomas Mathis. I’m a graduate of 2020 from National University of Sciences and Technology at Cergy-Pontoise and Ljubljana with a degree in Civil Engineering. I'm most passionate about discovering and learning new things, and my goal is to pursue this passion within the field of civil engineering. In my free time I like traveling, doing sport and sharing time with my friends",
+    "My name is Thomas Mathis. I’m a student from the University of Sciences and Technology of Cergy-Pontoise in 5th year of Civil Engineering. I'm most passionate about discovering and learning new things, and my goal is to pursue this passion within the field of civil engineering. In my free time I like traveling, doing sport and sharing time with my friends",
   resume: "https://docs.google.com/document/d/1GLuiPA-C7902M-16fERcoUnqo2VW9lgTa6n8l3m8HNk/edit?hl=fr&tab=t.0",
 };
 
